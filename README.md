@@ -24,7 +24,7 @@ git clone https://github.com/rabbit-castell/gkv-cse.git
 Folders are sorted by **Year** → **Semester** → **Subject**. Inside each subject, you will find:
 
 * **`PYQs`** – Previous Year Questions.
-* **`Study Materials`** – Handwritten notes, Google Classroom materials, assignments, etc.
+* **`Study Material`** – Google Classroom materials, Handwritten notes, Assignments, etc.
 * **`Syllabus`** – Official semester curriculum document for the subject.
 
 ## Naming Conventions
