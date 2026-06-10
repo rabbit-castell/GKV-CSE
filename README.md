@@ -9,7 +9,7 @@
 ---
 
 ## Quick Start
-To download the repo, run:
+To clone the repo, run:
 ```bash
 git clone https://github.com/rabbit-castell/gkv-cse.git
 
@@ -42,17 +42,17 @@ To keep the database coherent, exam papers in the `PYQs` folders use strict abbr
 
 ## How to Use
 
-* **Offline:** You can download the entire repository for offline use without any restrictions.
+* **Offline:** You can download the entire repository for offline use.
 * **Exam Prep:** Cross-reference PYQs against the official syllabus to identify recurring questions and high-weightage topics.
 
 > [!TIP]
-> **Need the lab software?** Check the `README.txt` files inside the specific `Practicals` folders for direct, safe download links to required compilers and tools (like Keil or Proteus).
+> **Need the lab software?** Check the `README.txt` files inside the specific `Practical` folder for download links regarding required compilers and tools (like Keil or Proteus).
 
 ---
 
 ## How to Contribute
 
-This repository grows when people share. To add missing, new or cleaner files:
+To add missing, new or cleaner files:
 
 1. **Fork** this repository.
 2. **Upload** your files to the correct semester and subject folder.
@@ -68,4 +68,4 @@ If you find a corrupted, incorrect document, missing file then please [Open an I
 
 ---
 
-**Share this GitHub link with your peers to help them score better in exams and turn this repository into a more complete database.**
+**Please Share with your peers to help grow and turn this into a up-to-date and complete repository.**
