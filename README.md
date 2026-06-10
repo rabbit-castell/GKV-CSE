@@ -12,7 +12,7 @@
 
 * **Offline Access:** You can download the entire repository for offline use. Run:
 ```bash
-  git clone https://github.com/rabbit-castell/gkv-cse.git
+git clone https://github.com/rabbit-castell/gkv-cse.git
 ```
 
 *(or, click the green **Code** button at the top and select **Download ZIP**).*
@@ -63,4 +63,4 @@ If you find a corrupted, incorrect or missing file then please [Open an Issue](h
 
 ---
 
-**Please share with your peers to help grow and turn this into a up-to-date and complete repository.**
+**Please share with your peers to help keep the repository complete and up-to-date.**
