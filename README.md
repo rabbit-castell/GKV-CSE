@@ -68,4 +68,4 @@ If you find a corrupted, incorrect document, missing file then please [Open an I
 
 ---
 
-**Please Share with your peers to help grow and turn this into a up-to-date and complete repository.**
+**Please share with your peers to help grow and turn this into a up-to-date and complete repository.**
