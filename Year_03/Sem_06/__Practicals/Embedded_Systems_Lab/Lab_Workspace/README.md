@@ -8,3 +8,6 @@ FOLDER STRUCTURE:
 - Experiments (Professor's Files): The archive of all files shared by
   the professor in groups during course duration; organized in folders.
 - Required Software: The Proteus and Keil IDEs
+
+NOTE: Servo Motor and ADC are missing from Clean and Dump folders.
+Please refer to Professor's Files folder for those experiments.
