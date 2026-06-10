@@ -47,7 +47,7 @@ To keep the database clean and easily searchable, exam papers in the `PYQs` fold
 * **Exam Prep:** Cross-reference past `FE` and `SE` papers against the official syllabus to identify recurring questions and high-weightage topics.
 
 > [!TIP]
-> **Need the lab software?** Check the `README.TXT` files inside the specific `Practicals` folders for direct, safe download links to required compilers and tools (like Keil or Proteus).
+> **Need the lab software?** Check the `README.txt` files inside the specific `Practicals` folders for direct, safe download links to required compilers and tools (like Keil or Proteus).
 
 ---
 
@@ -63,12 +63,10 @@ This archive grows when people share. To add missing notes, new PYQs, or cleaner
 > **You must strictly follow the existing naming conventions.**
 > Do not upload files with random names like `doc_final.pdf` or `WhatsApp_Image.jpg`, they will be rejected. Rename them clearly to match this repo's naming conventions before uploading.
 
-*If you do not know how to use Git in the terminal, use GitHub's web interface to drag and drop your renamed files into the correct folders, which will automatically generate a PR.*
-
 ## Reporting Issues
 
-If you find a corrupted file, an incorrect document, or a missing syllabus, do not send a direct message. Please [Open an Issue](https://github.com/rabbit-castell/gkv-cse/issues) so it can be tracked and fixed properly.
+If you find a corrupted, incorrect document, missing file then please [Open an Issue](https://github.com/rabbit-castell/gkv-cse/issues) so it can be tracked and fixed properly.
 
 ---
 
-**Share this GitHub link with your peers to help them score better in exams and turn this archive into an extensive database.**
+**Share this GitHub link with your peers to help them score better in exams and turn this repository into a more complete database.**
