@@ -10,7 +10,7 @@
 
 ## How to Use
 
-* **Offline Access:** You can download the entire repository for offline use. Run:
+* **Offline Access:** You can download the repository for offline use, run:
 ```bash
 git clone https://github.com/rabbit-castell/gkv-cse.git
 ```
@@ -20,7 +20,7 @@ git clone https://github.com/rabbit-castell/gkv-cse.git
 * **Exam Prep:** Cross-reference PYQs against the official syllabus to identify high-weightage topics and recurring questions.
 
 > [!TIP]
-> **Need the lab software?** Check the `README.txt` files inside the specific `Practical` folder for download links regarding required compilers and tools (like Keil or Proteus).
+> **Need the lab software?** Check the `INSTALL.md` files inside the specific `Practical` folder for download links regarding required compilers and tools (like Keil or Proteus).
 
 ---
 
