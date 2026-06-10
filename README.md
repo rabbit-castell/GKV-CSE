@@ -4,7 +4,7 @@
 ![Repo Size](https://img.shields.io/github/repo-size/rabbit-castell/gkv-cse?color=blue)
 ![License](https://img.shields.io/badge/License-CC0-lightgrey)
 
-> An open database of Computer Science and Engineering coursework for the **Faculty of Engineering & Technology – Gurukula Kangri (Deemed to be University)**.
+> A repository for all study materials related to Computer Science and Engineering at the **Faculty of Engineering & Technology – Gurukula Kangri (Deemed to be University)**.
 
 ---
 
