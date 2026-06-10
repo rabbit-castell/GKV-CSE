@@ -1,4 +1,4 @@
-# GKV CSE RESOURCE
+# GKV CSE RESOURCES
 
 ![Maintained](https://img.shields.io/badge/Maintained-Yes-brightgreen)
 ![Repo Size](https://img.shields.io/github/repo-size/rabbit-castell/gkv-cse?color=blue)
