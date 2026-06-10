@@ -1,4 +1,4 @@
-# GKV CSE Resource DB
+# GKV CSE RESOURCE
 
 ![Maintained](https://img.shields.io/badge/Maintained-Yes-brightgreen)
 ![Repo Size](https://img.shields.io/github/repo-size/rabbit-castell/gkv-cse?color=blue)
@@ -9,13 +9,13 @@
 ---
 
 ## Quick Start
-To download the entire repo for offline access, run:
+To download the repo, run:
 ```bash
 git clone https://github.com/rabbit-castell/gkv-cse.git
 
 ```
 
-*(Alternatively, click the green **Code** button at the top and select **Download ZIP**).*
+*(or, click the green **Code** button at the top and select **Download ZIP**).*
 
 ---
 
@@ -23,14 +23,13 @@ git clone https://github.com/rabbit-castell/gkv-cse.git
 
 Folders are sorted by **Year** → **Semester** → **Subject**. Inside each subject, you will find:
 
-* **`PYQs`** – Past exam papers.
+* **`PYQs`** – Previous Year Questions.
 * **`Study Materials`** – Handwritten notes, Google Classroom materials, assignments, etc.
-* **`Practicals`** – Lab files, compiled source code, and circuit schematics.
-* **`Syllabus`** – Official curriculum documents for the semester.
+* **`Syllabus`** – Official semester curriculum document for the subject.
 
 ## Naming Conventions
 
-To keep the database clean and easily searchable, exam papers in the `PYQs` folders use strict abbreviations:
+To keep the database coherent, exam papers in the `PYQs` folders use strict abbreviations:
 
 | Abbreviation | Meaning | Description |
 | --- | --- | --- |
@@ -43,8 +42,8 @@ To keep the database clean and easily searchable, exam papers in the `PYQs` fold
 
 ## How to Use
 
-* **Offline First:** You can download the entire repository for offline use without any restrictions.
-* **Exam Prep:** Cross-reference past `FE` and `SE` papers against the official syllabus to identify recurring questions and high-weightage topics.
+* **Offline:** You can download the entire repository for offline use without any restrictions.
+* **Exam Prep:** Cross-reference PYQs against the official syllabus to identify recurring questions and high-weightage topics.
 
 > [!TIP]
 > **Need the lab software?** Check the `README.txt` files inside the specific `Practicals` folders for direct, safe download links to required compilers and tools (like Keil or Proteus).
@@ -53,7 +52,7 @@ To keep the database clean and easily searchable, exam papers in the `PYQs` fold
 
 ## How to Contribute
 
-This archive grows when people share. To add missing notes, new PYQs, or cleaner files:
+This repository grows when people share. To add missing, new or cleaner files:
 
 1. **Fork** this repository.
 2. **Upload** your files to the correct semester and subject folder.
